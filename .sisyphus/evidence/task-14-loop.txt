@@ -1,0 +1,19 @@
+bun test src/loop/agentic.test.ts
+- 5 pass
+- 0 fail
+
+Coverage scenarios validated:
+- End-to-end ReAct iteration with tool execution and tool result feedback into next LLM call
+- Max iteration stop condition
+- Tool execution error integration into conversation context
+- Consecutive provider error abort condition
+- Streaming event flow (reason -> act -> observe -> final)
+
+bun run typecheck
+- Fails due to pre-existing type errors in unrelated files:
+  - src/providers/claude.test.ts
+  - src/tools/lsp.test.ts
+  - src/tools/web.test.ts
+- No type errors reported in new loop files:
+  - src/loop/agentic.ts
+  - src/loop/agentic.test.ts

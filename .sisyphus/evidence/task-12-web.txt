@@ -1,0 +1,13 @@
+$ tsc --noEmit
+src/tools/shell.ts(274,3): error TS1128: Declaration or statement expected.
+src/tools/shell.ts(274,30): error TS1005: ',' expected.
+src/tools/shell.ts(274,44): error TS1005: ';' expected.
+src/tools/shell.ts(274,46): error TS1434: Unexpected keyword or identifier.
+src/tools/shell.ts(298,14): error TS1005: ';' expected.
+src/tools/shell.ts(299,12): error TS1005: ':' expected.
+src/tools/shell.ts(299,30): error TS1005: ',' expected.
+src/tools/shell.ts(305,22): error TS1005: ',' expected.
+src/tools/shell.ts(305,49): error TS1005: ';' expected.
+src/tools/shell.ts(306,9): error TS1005: ':' expected.
+src/tools/shell.ts(309,6): error TS1005: ',' expected.
+src/tools/shell.ts(311,1): error TS1128: Declaration or statement expected.

@@ -1,0 +1,10 @@
+Command:
+- bun test --test-name-pattern injection
+
+Output:
+- bun test v1.3.9 (cf6cdbbb)
+- 3 pass
+- 20 skip
+- 0 fail
+- 6 expect() calls
+- Ran 23 tests across 32 files. [419.00ms]

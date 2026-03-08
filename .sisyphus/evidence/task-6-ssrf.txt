@@ -1,0 +1,18 @@
+bun test src/tools/web.test.ts --test-name-pattern "ssrf"
+
+bun test v1.3.9 (cf6cdbbb)
+
+4 pass
+13 filtered out
+0 fail
+26 expect() calls
+Ran 4 tests across 1 file. [279.00ms]
+
+bun test src/tools/web.test.ts
+
+bun test v1.3.9 (cf6cdbbb)
+
+17 pass
+0 fail
+61 expect() calls
+Ran 17 tests across 1 file. [1293.00ms]

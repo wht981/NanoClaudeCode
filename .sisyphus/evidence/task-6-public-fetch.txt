@@ -1,0 +1,9 @@
+bun test src/tools/web.test.ts --test-name-pattern "fetch"
+
+bun test v1.3.9 (cf6cdbbb)
+
+8 pass
+9 filtered out
+0 fail
+37 expect() calls
+Ran 8 tests across 1 file. [1288.00ms]

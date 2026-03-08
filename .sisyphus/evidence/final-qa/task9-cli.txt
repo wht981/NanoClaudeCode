@@ -1,0 +1,3 @@
+Provider not connected: OPENAI_API_KEY is missing. Use /connect openai <apiKey> or set env.
+Tip: use /connect [openai|anthropic] [apiKey] to connect.
+✗ Error: No provider connected. Please set ANTHROPIC_API_KEY or OPENAI_API_KEY.

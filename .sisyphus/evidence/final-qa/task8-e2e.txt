@@ -1,0 +1,7 @@
+$ bun test src/__tests__/e2e/**/*.test.ts
+bun test v1.3.9 (cf6cdbbb)
+
+ 2 pass
+ 0 fail
+ 5 expect() calls
+Ran 2 tests across 1 file. [315.00ms]

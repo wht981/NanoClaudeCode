@@ -1,0 +1,8 @@
+D:\Repositories\NanoClaudecode node_modules (69)
+├── @anthropic-ai/sdk@0.28.0
+├── @biomejs/biome@1.9.4
+├── @modelcontextprotocol/sdk@0.7.0
+├── @types/bun@1.3.10
+├── blessed@0.1.81
+├── openai@4.104.0
+└── typescript@5.9.3

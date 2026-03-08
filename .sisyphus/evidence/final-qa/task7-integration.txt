@@ -1,0 +1,7 @@
+$ bun test src/__tests__/integration/**/*.test.ts
+bun test v1.3.9 (cf6cdbbb)
+
+ 7 pass
+ 0 fail
+ 21 expect() calls
+Ran 7 tests across 1 file. [83.00ms]

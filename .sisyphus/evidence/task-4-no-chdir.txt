@@ -1,0 +1,3 @@
+Command: findstr /n /c:"process.chdir" "src\tools\search.ts"
+Result: no matches
+Interpretation: src/tools/search.ts has no process.chdir calls.

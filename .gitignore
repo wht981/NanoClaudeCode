@@ -40,3 +40,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # local tooling shim
 export.cmd
+
+# local loop scratchpad
+.sisyphus/ralph-loop.local.md
